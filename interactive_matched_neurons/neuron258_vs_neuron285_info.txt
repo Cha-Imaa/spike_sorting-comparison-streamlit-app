@@ -1,0 +1,6 @@
+Neuron Algo1 ID: 258
+Neuron Algo2 ID: 285
+Algo1 spikes: 100
+Algo2 spikes: 160
+Matched spikes: 78
+Match score: 0.60

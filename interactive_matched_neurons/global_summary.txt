@@ -1,0 +1,5 @@
+Algo1 neurons: 277
+Algo2 neurons: 311
+Total comparisons: 86147
+Matched pairs: 206
+Average match score: 82.65%
